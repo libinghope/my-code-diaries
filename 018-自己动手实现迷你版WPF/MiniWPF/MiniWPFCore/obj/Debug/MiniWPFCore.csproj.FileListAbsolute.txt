@@ -1,0 +1,6 @@
+D:\workspace\journey-of-coding\017自己动手实现迷你版WPF\MiniWPF\MiniWPFCore\bin\Debug\MiniWPFCore.dll
+D:\workspace\journey-of-coding\017自己动手实现迷你版WPF\MiniWPF\MiniWPFCore\bin\Debug\MiniWPFCore.pdb
+D:\workspace\journey-of-coding\017自己动手实现迷你版WPF\MiniWPF\MiniWPFCore\obj\Debug\MiniWPFCore.csproj.AssemblyReference.cache
+D:\workspace\journey-of-coding\017自己动手实现迷你版WPF\MiniWPF\MiniWPFCore\obj\Debug\MiniWPFCore.csproj.CoreCompileInputs.cache
+D:\workspace\journey-of-coding\017自己动手实现迷你版WPF\MiniWPF\MiniWPFCore\obj\Debug\MiniWPFCore.dll
+D:\workspace\journey-of-coding\017自己动手实现迷你版WPF\MiniWPF\MiniWPFCore\obj\Debug\MiniWPFCore.pdb

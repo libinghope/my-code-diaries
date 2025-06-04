@@ -1,0 +1,95 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\workspace\\journey-of-coding\\017自己动手实现迷你版WPF\\MiniWPF\\MiniWPF\\MiniWPF.csproj": {}
+  },
+  "projects": {
+    "D:\\workspace\\journey-of-coding\\017自己动手实现迷你版WPF\\MiniWPF\\MiniWPFCore\\MiniWPFCore.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\workspace\\journey-of-coding\\017自己动手实现迷你版WPF\\MiniWPF\\MiniWPFCore\\MiniWPFCore.csproj",
+        "projectName": "MiniWPFCore",
+        "projectPath": "D:\\workspace\\journey-of-coding\\017自己动手实现迷你版WPF\\MiniWPF\\MiniWPFCore\\MiniWPFCore.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\workspace\\journey-of-coding\\017自己动手实现迷你版WPF\\MiniWPF\\MiniWPF\\MiniWPF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\workspace\\journey-of-coding\\017自己动手实现迷你版WPF\\MiniWPF\\MiniWPF\\MiniWPF.csproj",
+        "projectName": "MiniWPF",
+        "projectPath": "D:\\workspace\\journey-of-coding\\017自己动手实现迷你版WPF\\MiniWPF\\MiniWPF\\MiniWPF.csproj",
+        "packagesPath": "C:\\Users\\bing\\.nuget\\packages\\",
+        "outputPath": "D:\\workspace\\journey-of-coding\\017自己动手实现迷你版WPF\\MiniWPF\\MiniWPF\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bing\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "D:\\workspace\\journey-of-coding\\017自己动手实现迷你版WPF\\MiniWPF\\MiniWPFCore\\MiniWPFCore.csproj": {
+                "projectPath": "D:\\workspace\\journey-of-coding\\017自己动手实现迷你版WPF\\MiniWPF\\MiniWPFCore\\MiniWPFCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

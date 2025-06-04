@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MiniWPF/1.0.0": {
+        "dependencies": {
+          "MiniWPFCore": "1.0.0"
+        },
+        "runtime": {
+          "MiniWPF.dll": {}
+        }
+      },
+      "MiniWPFCore/1.0.0": {
+        "runtime": {
+          "MiniWPFCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MiniWPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MiniWPFCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

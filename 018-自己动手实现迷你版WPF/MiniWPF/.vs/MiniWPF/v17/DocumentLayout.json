@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\workspace\\journey-of-coding\\017\u81EA\u5DF1\u52A8\u624B\u5B9E\u73B0\u8FF7\u4F60\u7248WPF\\MiniWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9813DCAB-6749-4CC5-AFD5-AFAC70DA49D4}|MiniWPF\\MiniWPF.csproj|d:\\workspace\\journey-of-coding\\017\u81EA\u5DF1\u52A8\u624B\u5B9E\u73B0\u8FF7\u4F60\u7248wpf\\miniwpf\\miniwpf\\viewmodels\\calculatorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9813DCAB-6749-4CC5-AFD5-AFAC70DA49D4}|MiniWPF\\MiniWPF.csproj|solutionrelative:miniwpf\\viewmodels\\calculatorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9813DCAB-6749-4CC5-AFD5-AFAC70DA49D4}|MiniWPF\\MiniWPF.csproj|d:\\workspace\\journey-of-coding\\017\u81EA\u5DF1\u52A8\u624B\u5B9E\u73B0\u8FF7\u4F60\u7248wpf\\miniwpf\\miniwpf\\views\\formview2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9813DCAB-6749-4CC5-AFD5-AFAC70DA49D4}|MiniWPF\\MiniWPF.csproj|solutionrelative:miniwpf\\views\\formview2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9813DCAB-6749-4CC5-AFD5-AFAC70DA49D4}|MiniWPF\\MiniWPF.csproj|d:\\workspace\\journey-of-coding\\017\u81EA\u5DF1\u52A8\u624B\u5B9E\u73B0\u8FF7\u4F60\u7248wpf\\miniwpf\\miniwpf\\views\\formview2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9813DCAB-6749-4CC5-AFD5-AFAC70DA49D4}|MiniWPF\\MiniWPF.csproj|solutionrelative:miniwpf\\views\\formview2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9813DCAB-6749-4CC5-AFD5-AFAC70DA49D4}|MiniWPF\\MiniWPF.csproj|d:\\workspace\\journey-of-coding\\017\u81EA\u5DF1\u52A8\u624B\u5B9E\u73B0\u8FF7\u4F60\u7248wpf\\miniwpf\\miniwpf\\views\\formview2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9813DCAB-6749-4CC5-AFD5-AFAC70DA49D4}|MiniWPF\\MiniWPF.csproj|solutionrelative:miniwpf\\views\\formview2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9813DCAB-6749-4CC5-AFD5-AFAC70DA49D4}|MiniWPF\\MiniWPF.csproj|d:\\workspace\\journey-of-coding\\017\u81EA\u5DF1\u52A8\u624B\u5B9E\u73B0\u8FF7\u4F60\u7248wpf\\miniwpf\\miniwpf\\views\\formview1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9813DCAB-6749-4CC5-AFD5-AFAC70DA49D4}|MiniWPF\\MiniWPF.csproj|solutionrelative:miniwpf\\views\\formview1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9813DCAB-6749-4CC5-AFD5-AFAC70DA49D4}|MiniWPF\\MiniWPF.csproj|d:\\workspace\\journey-of-coding\\017\u81EA\u5DF1\u52A8\u624B\u5B9E\u73B0\u8FF7\u4F60\u7248wpf\\miniwpf\\miniwpf\\controls\\slidertextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9813DCAB-6749-4CC5-AFD5-AFAC70DA49D4}|MiniWPF\\MiniWPF.csproj|solutionrelative:miniwpf\\controls\\slidertextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9813DCAB-6749-4CC5-AFD5-AFAC70DA49D4}|MiniWPF\\MiniWPF.csproj|d:\\workspace\\journey-of-coding\\017\u81EA\u5DF1\u52A8\u624B\u5B9E\u73B0\u8FF7\u4F60\u7248wpf\\miniwpf\\miniwpf\\controls\\operationlistbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9813DCAB-6749-4CC5-AFD5-AFAC70DA49D4}|MiniWPF\\MiniWPF.csproj|solutionrelative:miniwpf\\controls\\operationlistbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 120,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorViewModel.cs",
+              "DocumentMoniker": "D:\\workspace\\journey-of-coding\\017\u81EA\u5DF1\u52A8\u624B\u5B9E\u73B0\u8FF7\u4F60\u7248WPF\\MiniWPF\\MiniWPF\\ViewModels\\CalculatorViewModel.cs",
+              "RelativeDocumentMoniker": "MiniWPF\\ViewModels\\CalculatorViewModel.cs",
+              "ToolTip": "D:\\workspace\\journey-of-coding\\017\u81EA\u5DF1\u52A8\u624B\u5B9E\u73B0\u8FF7\u4F60\u7248WPF\\MiniWPF\\MiniWPF\\ViewModels\\CalculatorViewModel.cs",
+              "RelativeToolTip": "MiniWPF\\ViewModels\\CalculatorViewModel.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA5wCMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T15:39:16.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormView2.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\workspace\\journey-of-coding\\017\u81EA\u5DF1\u52A8\u624B\u5B9E\u73B0\u8FF7\u4F60\u7248WPF\\MiniWPF\\MiniWPF\\Views\\FormView2.cs",
+              "RelativeDocumentMoniker": "MiniWPF\\Views\\FormView2.cs",
+              "ToolTip": "D:\\workspace\\journey-of-coding\\017\u81EA\u5DF1\u52A8\u624B\u5B9E\u73B0\u8FF7\u4F60\u7248WPF\\MiniWPF\\MiniWPF\\Views\\FormView2.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "MiniWPF\\Views\\FormView2.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T15:38:59.149Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormView2.Designer.cs",
+              "DocumentMoniker": "D:\\workspace\\journey-of-coding\\017\u81EA\u5DF1\u52A8\u624B\u5B9E\u73B0\u8FF7\u4F60\u7248WPF\\MiniWPF\\MiniWPF\\Views\\FormView2.Designer.cs",
+              "RelativeDocumentMoniker": "MiniWPF\\Views\\FormView2.Designer.cs",
+              "ToolTip": "D:\\workspace\\journey-of-coding\\017\u81EA\u5DF1\u52A8\u624B\u5B9E\u73B0\u8FF7\u4F60\u7248WPF\\MiniWPF\\MiniWPF\\Views\\FormView2.Designer.cs",
+              "RelativeToolTip": "MiniWPF\\Views\\FormView2.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T15:04:34.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormView2.cs",
+              "DocumentMoniker": "D:\\workspace\\journey-of-coding\\017\u81EA\u5DF1\u52A8\u624B\u5B9E\u73B0\u8FF7\u4F60\u7248WPF\\MiniWPF\\MiniWPF\\Views\\FormView2.cs",
+              "RelativeDocumentMoniker": "MiniWPF\\Views\\FormView2.cs",
+              "ToolTip": "D:\\workspace\\journey-of-coding\\017\u81EA\u5DF1\u52A8\u624B\u5B9E\u73B0\u8FF7\u4F60\u7248WPF\\MiniWPF\\MiniWPF\\Views\\FormView2.cs",
+              "RelativeToolTip": "MiniWPF\\Views\\FormView2.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T15:08:21.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 76,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SliderTextBox.cs",
+              "DocumentMoniker": "D:\\workspace\\journey-of-coding\\017\u81EA\u5DF1\u52A8\u624B\u5B9E\u73B0\u8FF7\u4F60\u7248WPF\\MiniWPF\\MiniWPF\\Controls\\SliderTextBox.cs",
+              "RelativeDocumentMoniker": "MiniWPF\\Controls\\SliderTextBox.cs",
+              "ToolTip": "D:\\workspace\\journey-of-coding\\017\u81EA\u5DF1\u52A8\u624B\u5B9E\u73B0\u8FF7\u4F60\u7248WPF\\MiniWPF\\MiniWPF\\Controls\\SliderTextBox.cs",
+              "RelativeToolTip": "MiniWPF\\Controls\\SliderTextBox.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA1wC8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T15:36:43.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormView1.cs",
+              "DocumentMoniker": "D:\\workspace\\journey-of-coding\\017\u81EA\u5DF1\u52A8\u624B\u5B9E\u73B0\u8FF7\u4F60\u7248WPF\\MiniWPF\\MiniWPF\\Views\\FormView1.cs",
+              "RelativeDocumentMoniker": "MiniWPF\\Views\\FormView1.cs",
+              "ToolTip": "D:\\workspace\\journey-of-coding\\017\u81EA\u5DF1\u52A8\u624B\u5B9E\u73B0\u8FF7\u4F60\u7248WPF\\MiniWPF\\MiniWPF\\Views\\FormView1.cs",
+              "RelativeToolTip": "MiniWPF\\Views\\FormView1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA+wCIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T15:34:52.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OperationListBox.cs",
+              "DocumentMoniker": "D:\\workspace\\journey-of-coding\\017\u81EA\u5DF1\u52A8\u624B\u5B9E\u73B0\u8FF7\u4F60\u7248WPF\\MiniWPF\\MiniWPF\\Controls\\OperationListBox.cs",
+              "RelativeDocumentMoniker": "MiniWPF\\Controls\\OperationListBox.cs",
+              "ToolTip": "D:\\workspace\\journey-of-coding\\017\u81EA\u5DF1\u52A8\u624B\u5B9E\u73B0\u8FF7\u4F60\u7248WPF\\MiniWPF\\MiniWPF\\Controls\\OperationListBox.cs",
+              "RelativeToolTip": "MiniWPF\\Controls\\OperationListBox.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T15:06:40.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

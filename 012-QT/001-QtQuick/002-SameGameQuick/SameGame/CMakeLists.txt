@@ -15,9 +15,9 @@ qt_add_executable(appSameGame
 qt_add_qml_module(appSameGame
     URI SameGame
     VERSION 1.0
-    QML_FILES Main.qml Block.qml Button.qml
+    QML_FILES Main.qml Block.qml Button.qml SameGame.js Dialog.qml
 
-    RESOURCES "pics/background.jpg" "pics/redStone.png"
+    RESOURCES "pics/background.jpg" "pics/redStone.png" "pics/blueStar.png" "pics/blueStone.png" "pics/greenStar.png" "pics/redStar.png" "pics/redStone.png"
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.

@@ -1,47 +1,60 @@
-﻿cmake_minimum_required(VERSION 3.16)
+﻿# Copyright (C) 2022 The Qt Company Ltd.
+# SPDX-License-Identifier: BSD-3-Clause
 
-project(SameGame VERSION 0.1 LANGUAGES CXX)
+cmake_minimum_required(VERSION 3.16)
+project(samegame4 LANGUAGES CXX)
 
-set(CMAKE_CXX_STANDARD_REQUIRED ON)
+set(CMAKE_AUTOMOC ON)
 
+if(NOT DEFINED INSTALL_EXAMPLESDIR)
+    set(INSTALL_EXAMPLESDIR "examples")
+endif()
+
+# set(INSTALL_EXAMPLEDIR "${INSTALL_EXAMPLESDIR}/quick/tutorials/samegame/samegame4")
 find_package(Qt6 REQUIRED COMPONENTS Core Gui Qml Quick)
 
 qt_standard_project_setup(REQUIRES 6.5)
 
-qt_add_executable(appSameGame
+qt_add_executable(samegame4
     main.cpp
 )
 
-qt_add_qml_module(appSameGame
-    URI SameGame
-    VERSION 1.0
-    QML_FILES Main.qml Block.qml Button.qml SameGame.js Dialog.qml
-
-    RESOURCES "pics/background.jpg" "pics/redStone.png" "pics/blueStar.png" "pics/blueStone.png" "pics/greenStar.png" "pics/redStar.png" "pics/redStone.png"
-)
-
-# Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
-# If you are developing for iOS or macOS you should consider setting an
-# explicit, fixed bundle identifier manually though.
-set_target_properties(appSameGame PROPERTIES
-
-    # MACOSX_BUNDLE_GUI_IDENTIFIER com.example.appSameGame
-    MACOSX_BUNDLE_BUNDLE_VERSION ${PROJECT_VERSION}
-    MACOSX_BUNDLE_SHORT_VERSION_STRING ${PROJECT_VERSION_MAJOR}.${PROJECT_VERSION_MINOR}
-    MACOSX_BUNDLE TRUE
+set_target_properties(samegame4 PROPERTIES
     WIN32_EXECUTABLE TRUE
+    MACOSX_BUNDLE TRUE
 )
 
-target_link_libraries(appSameGame
-    PRIVATE Qt6::Quick
-    PRIVATE Qt6::Core
-    PRIVATE Qt6::Gui
-    PRIVATE Qt6::Qml
+qt_add_qml_module(samegame4
+    URI samegame
+    QML_FILES
+    "BoomBlock.qml"
+    "Button.qml"
+    "Dialog.qml"
+    "Main.qml"
+    "samegame.js"
+    RESOURCES
+    "highscores/README"
+    "highscores/score_data.xml"
+    "highscores/score_style.xsl"
+    "highscores/scores.php"
+    "pics/background.jpg"
+    "pics/blueStar.png"
+    "pics/blueStone.png"
+    "pics/greenStar.png"
+    "pics/greenStone.png"
+    "pics/redStar.png"
+    "pics/redStone.png"
 )
 
-include(GNUInstallDirs)
-install(TARGETS appSameGame
-    BUNDLE DESTINATION .
-    LIBRARY DESTINATION ${CMAKE_INSTALL_LIBDIR}
-    RUNTIME DESTINATION ${CMAKE_INSTALL_BINDIR}
+target_link_libraries(samegame4 PRIVATE
+    Qt6::Core
+    Qt6::Gui
+    Qt6::Qml
+    Qt6::Quick
+)
+
+install(TARGETS samegame4
+    RUNTIME DESTINATION "${INSTALL_EXAMPLEDIR}"
+    BUNDLE DESTINATION "${INSTALL_EXAMPLEDIR}"
+    LIBRARY DESTINATION "${INSTALL_EXAMPLEDIR}"
 )

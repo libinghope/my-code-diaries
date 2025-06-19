@@ -1,6 +1,3 @@
-﻿# Copyright (C) 2022 The Qt Company Ltd.
-# SPDX-License-Identifier: BSD-3-Clause
-
 cmake_minimum_required(VERSION 3.16)
 project(samegame4 LANGUAGES CXX)
 
@@ -10,7 +7,8 @@ if(NOT DEFINED INSTALL_EXAMPLESDIR)
     set(INSTALL_EXAMPLESDIR "examples")
 endif()
 
-# set(INSTALL_EXAMPLEDIR "${INSTALL_EXAMPLESDIR}/quick/tutorials/samegame/samegame4")
+set(INSTALL_EXAMPLEDIR "${INSTALL_EXAMPLESDIR}/quick/tutorials/samegame/samegame4")
+
 find_package(Qt6 REQUIRED COMPONENTS Core Gui Qml Quick)
 
 qt_standard_project_setup(REQUIRES 6.5)
@@ -30,7 +28,7 @@ qt_add_qml_module(samegame4
     "BoomBlock.qml"
     "Button.qml"
     "Dialog.qml"
-    "Main.qml"
+    "samegame.qml"
     "samegame.js"
     RESOURCES
     "highscores/README"
